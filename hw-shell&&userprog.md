@@ -1,12 +1,3 @@
----
-title: hw-shell&&userprog
-updated: 2024-01-25 09:40:58Z
-created: 2024-01-25 07:49:34Z
-latitude: 30.27408500
-longitude: 120.15507000
-altitude: 0.0000
----
-
 # 操作系统课程设计实验报告
 
 ## **实验一 准备开发工具【Pintos Introduction】**
