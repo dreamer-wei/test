@@ -50,7 +50,7 @@ altitude: 0.0000
 
 由于并没有对代码进行改动，所以，大部分测试点都是failed。
 
-<img src="../_resources/make%20check.png" alt="make check.png" width="714" height="481" class="jop-noMdConv">
+![make check.png](image/make check.png)
 
 * * *
 
@@ -198,7 +198,7 @@ altitude: 0.0000
 
 实验代码通过了大部分测试样例。
 
-**<img src="../_resources/shell.png" alt="shell.png" width="713" height="380" class="jop-noMdConv">**
+![shell.png](image/shell.png)
 
 ## **实验四** **Pintos用户程序【Pintos** Project 2: User Programs **】**
 
@@ -231,7 +231,7 @@ altitude: 0.0000
 
 实验代码通过了大部分测试样例。
 
-<img src="../_resources/userprog.png" alt="userprog.png" width="714" height="435" class="jop-noMdConv">
+![userprog.png](image/userprog.png)
 
 * * *
 
