@@ -50,7 +50,7 @@ altitude: 0.0000
 
 由于并没有对代码进行改动，所以，大部分测试点都是failed。
 
-![make check.png](image/make check.png)
+![make.png](image/make.png)
 
 * * *
 
